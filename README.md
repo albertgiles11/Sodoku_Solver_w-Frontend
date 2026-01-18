@@ -36,5 +36,9 @@ The solver utilizes a **backtracking algorithm**, which:
    pip install flask
    ```
 
-3. Run the application
+3. Run the application :
+ 
+   ```
+   run sudoku.py
+   ```
    
