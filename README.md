@@ -5,7 +5,7 @@ Simple Project which I used to Learn the basic of Flask and Frontend
 ## 🌟 Features
 * **Automatic Solving**: Solves any valid 9x9 Sudoku puzzle in milliseconds.
 * **Validation**: Checks if the initial board configuration is valid.
-* **Clean UI/UX**: Easy-to-read board representation in the console (or GUI if applicable).
+* **Clean Web-Interference**: Provides a clear, easy-to-read board representation.
 * **Efficiency**: Uses a recursive backtracking approach to find the solution.
 
 ## 🛠️ How it Works
@@ -22,4 +22,20 @@ The solver utilizes a **backtracking algorithm**, which:
 * Python, Flask, HTML, CSS, JavaScript
 * Git
 
+## Installation
 
+1. Clone the repository:
+
+   ```
+   git clone 
+   ```
+   Navigate inside the ```src``` folder.
+
+2. Install ```flask``` (if not already installed):
+
+   ```
+   pip install flask
+   ```
+
+3. Run the application:
+   
