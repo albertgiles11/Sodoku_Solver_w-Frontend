@@ -27,15 +27,14 @@ The solver utilizes a **backtracking algorithm**, which:
 1. Clone the repository:
 
    ```
-   git clone 
+   git clone https://github.com/albertgiles11/Sodoku_Solver_w-Frontend
    ```
-   Navigate inside the ```src``` folder.
-
+   
 2. Install ```flask``` (if not already installed):
 
    ```
    pip install flask
    ```
 
-3. Run the application:
+3. Run the application
    
