@@ -2,13 +2,13 @@
 
 Simple Project which I used to Learn the basic of Flask and Frontend
 
-## 🌟 Features
+## Features
 * **Automatic Solving**: Solves any valid 9x9 Sudoku puzzle in milliseconds.
 * **Validation**: Checks if the initial board configuration is valid.
 * **Clean Web-Interference**: Provides a clear, easy-to-read board representation.
 * **Efficiency**: Uses a recursive backtracking approach to find the solution.
 
-## 🛠️ How it Works
+## How it Works
 The solver utilizes a **backtracking algorithm**, which:
 1. Searches for an empty cell.
 2. Attempts to place digits 1-9 in that cell.
@@ -16,7 +16,7 @@ The solver utilizes a **backtracking algorithm**, which:
 4. If valid, it moves to the next cell.
 5. If no digit works, it "backtracks" to the previous cell and tries a different number.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python, Flask, HTML, CSS, JavaScript
